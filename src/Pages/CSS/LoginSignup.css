@@ -59,6 +59,10 @@
     font-size: 18px;
     font-weight: 500;
 }
+.loginsignup span a{
+    color: inherit;
+    text-decoration: none;
+}
 @media(max-width:1280px){
     .loginsignup{
         padding-top: 50px;
